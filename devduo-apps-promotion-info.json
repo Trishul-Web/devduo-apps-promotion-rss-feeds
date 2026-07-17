@@ -412,7 +412,8 @@
         },
        {
               "id": "rail_manager",
-              "title": "Station Manager",
+              "title": "Station Manager",            
+              "description": "Comming soon!!",
               "icon_url": "https://play-lh.googleusercontent.com/gtkcb1i-QzTExxcnNK50mvu-juroLxt60US5uH4WqxKxhPHUMx_ZxIEfaldDiWRRIqFOVYK1aKK7rlBKUZwz=w240-h480-rw",
               "play_store_url": "",
               "app_store_url": "",
