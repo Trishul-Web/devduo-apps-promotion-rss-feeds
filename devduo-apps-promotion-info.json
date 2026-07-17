@@ -409,7 +409,18 @@
               "https://play-lh.googleusercontent.com/-xCscbkGjRWROIh8IhSC0qZhEYLVOnt3iVk6WiXDj89zMhRVn5vB2CS_vNY_0aipEQejkn_FW65a6Y_Z0E_E=w526-h296-rw",
               "https://play-lh.googleusercontent.com/xwhU79hz6DR9viOAZBIp48Vx8NYKxPQqmPDKhQU2G5vSmmtURWukjHCiRRPvdbGVjA9rfPR9X4ZnwFwLhqyz0g=w526-h296-rw"
             ]
-        }
+        },
+       {
+              "id": "rail_manager",
+              "title": "Station Manager",
+              "description": "Transform any website or live webpage into a seamless PDF with no page breaks using Web to PDF. Features an offline URL to PDF converter, raw HTML/CSS developer mode processing, and a continuous layout generation engine.",
+              "icon_url": "https://play-lh.googleusercontent.com/-YSkETFKDcweeJ6ayK2UQxxgFsk_btZWSut3qu8PY17tkXKNT8O4-bYeUaWT04gNVIpm3tzXNx4V43Az_TmDaQ=w240-h480-rw",
+              "play_store_url": "",
+              "app_store_url": "",
+              "mac_store_url": "",
+              "windows_store_url": "",
+              "filter_category": "Games",
+          }
     ]
 }
 
