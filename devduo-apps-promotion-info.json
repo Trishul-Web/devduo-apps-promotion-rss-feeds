@@ -1,414 +1,415 @@
-[
+{
   "top_apps": [
     "devduo_ide","discipline_forge","rail_junction"
   ],
-  {
-        "id": "stretch_10min",
-        "title": "10 Min Stretch: Posture Fix",
-        "description": "Improve your posture, relieve neck pain, and restore joint mobility in under 10 minutes a day with personalized AI flows. Access targeted desk resets and full library recovery routines built to melt away muscle tension.",
-        "icon_url": "https://play-lh.googleusercontent.com/rQSzSGKDpG3EZLuA0oLN8JruZAgA3rraJu2PHV4OLU5qBRhrXOnITYi69wTQGsqnskjFLRGG8CXVhlewiet_jq4=w480-h960-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/uhp-vojh14hoXCt2ilnzpzzjlB8kD1CVuX-M2cqeVuP7Z8Ewa5Cu6W25jA9jg0CpoIvISLQZXholPcgUUDJsOw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/9Dl8wCp_-venEvgmDRPc4tiV7453l_LgmsINrjQpRXEthiFnvK9YezcPcCWQbl-sTUAjXJKkK4yzvV-rc9gS=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/Glx98A4Cb20XOA11mgiy5c5l-Oc5NelVPjPdJoJWypDycfXRlZt70g0nM4-tF7emSID07BOaFJNn1gI9Khdikg=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/aBz2ih4uQUu1e2C8bUix9C3Foe32nQdpCIEpVUQcOmG4jJxg-1tQ1ORHituFTbrwgsnzf0Wng5m8DM5hkEPz3w=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/TxK6s4WF_cGeINYTHl_dKGC_kiEi5HROLgBrEL_u7g01FGhGQSRNHGvJaGtTL3kcMr9h9FUNjLZXVsxt97zZ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/d899ei66sytFdpKl7HpjQmKUJiGE892MGASv9ukD-ij-rAwIq-jL3MF6bG39MdFsMp3Ze7tMr3bjzg9_DWTXVg=w526-h296-rw"
-        ]
-    },
-    {
-        "id": "id_wallet_3d",
-        "title": "3D ID Wallet & Card Scanner",
-        "description": "Transform your physical wallet into an interactive 3D digital vault. Securely scan, organize, and interact with driving licenses, government IDs, and loyalty cards entirely offline with smooth, responsive 3D interactions.",
-        "icon_url": "https://play-lh.googleusercontent.com/zc4D6jz4eLdJVOhAA_9yNmFRVQn3ts_yCsAM0JpFCI-Rsu2Ia0d2_w6ZmLI3f12_gIYJJ-P3p0Onz-j7mFBfi0Q=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/tqwn_eYdIJBZneGrm-nzoN3cYZv64i1ZlAGo2GN9jQQz4Dwmaxa0aXVQ88anFjuxlZJWRfntUBVTefbjysf39w=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/IA_x2M2cTZ-xy1X9vFUX4N8dPvSV_nqlKjFVG15sl102cKJ_FQ3KYXM-xUVp0VWmNxiVo-UbScADP4FZQsgOYrU=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/c9ngnepvui8TdHy8Ra3nEcVehy_Qbftwm5ljfOs6uABCxFM9QFTnUrLeDoPtR9-NaEbl-GlwCOGVulUV4oU2Kus=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/yGVEAJhmAus-dc9fRV4S8HxAVgFSsHXUPAHWW5Z2U4qc8PEk-cXhylQXtHXb43F41uuxjJVIw7ztpuXc1f5Vr9o=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/fYSmEwdAH4zzWHk0cjSDqcwMt-UcNSuaSm3vdgBrzeQWgqiTOJRKhhlM4jSrDvaTeVslZjAPN9TgLIhCuirK=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/0J5ikNyUtlw5WxCcZygWK4W7Lu79ngYEeYJffKzHHkAfBGldr_F3DwGS2FRxHZH3NeXRUHhairEjhvNhAjfS8g=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/maaMcHn2BREW31AeBBKBQAcHAdo87EJAOzMrTGQKLJGeTZGRu-SU1XEXC5KGufiVYVwAKOKHh2XRGgdNBVfo=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/RbZyY0oA5I50J4Ju8Qe4gy85v3NCN3MWkgJUPR4Z4dFqN0QSnVq3NKCvv2iy7JoqFgElh85dkl0HNMckKITeWg=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "habit_tracker_allinone",
-        "title": "All in One Habit Tracker Daily",
-        "description": "All in One Habit Tracker is a powerful habit tracker and daily tracker designed to help you track fitness, water intake, workouts, and personal goals in one place completely offline.",
-        "icon_url": "https://play-lh.googleusercontent.com/3z-nA1Y_Hy_f2nqC0zx0vkDDgN6PjgDmAEQXleZbruwONRwiaNzA4zFIAzl7hWxpfZ4v-CfREMJcn9HNI2gd-w=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/K9GXFjjKz9X-YbjecCuTbJXY7LtXyLQV780dNVOOclVbrCzRPxI4eYxJRLk9y1rE3h_ed9BAIcm1veZOtcPy-qw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/FGg4AH6pxxLm2tXmPWMlGewFfNrvzotab8G5Z7UVMCQmj4GRwTGa81xvnBrrMcrKRkvEEGfG_qbm2S0WcFZk=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/XYv5Z1snnWECUo56IFf92KV2VQBCJ_PU9__LIf5YGH1j-4-hpqGHsjv5FinHdYS7ipqEI3B2TcdUZRTLwNpT=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/8ewIT0v3hGH6h6sLRFLKV_YYGBpQ6FX8Vn_buSe13E6Di9ywoZFXRXrtBHHsNUz0kBiuME8wcCbTgzy1H5xu=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/2Ki3_DuqaIL5Te8e2IeGJzBhMYQQKbqyUx0YDI2-KU8xVM6hAR0sKAUu1jacF3gT4grrTaV2IHSHi2K8o2VvJA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/OCprY_7fgGli5Ma8GSr-NrfhQmItIcuuauGmwUrFzZJ74i0vffgrjekBWGXlvKZ9bNec0_r8aWPmZnEqTOimOA=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "devduo_ide",
-        "title": "DevDuo IDE: AI Code Editor",
-        "description": "Transform your device into a professional workstation with DevDuo IDE, the advanced AI code editor and mobile integrated development environment. Features a smart companion, auto-fix compiler sandbox, and syntax highlighting for 100+ languages.",
-        "icon_url": "https://play-lh.googleusercontent.com/exFCMg3IKVv6jqjfUlT5-ikRQUI3x2enIRYvNRKNg_AVTPDFRgOVGDU10C5Gj5PZfb9D3kz2fOgTzYHVpux92Q=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/s6cr5Eg_DTM_oTpvP3pU32bXUk1jXYJ3iRx6WmHKoskArcB4uHTaH-96T6tRUGL1QRNJ1if9Jr_VJ4ugwqd6-w=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/ySUDcBLpA9sfR51mE8InGif36cPPYiW3XF2JIgFhIBYFCVumxr-95QVzvrUycd3DASBmxqsMTp93PLwgmjBvbA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/3qx_Q38kyXszLxaNwkoVObcyHnqlAIi1NdU4pnWrwfALk_-TPSpDw2ofKOCLeZf2OHwQ6gf-dflpghv3MNug2g=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/E3X0ODltOFGARBfsO80AVvGNsxVMC_ROwoUyG19G-7r2hzc5X7dV2mlhztvaL640886xTO94EgyaCU-OEBdVJw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/VD_OV1VK4VgRnKe3nLNmkE37MGpVY4_xvBhCLIyBwbJ_QxOIae52U7_oLznw2-Z--Tgge_i2XCB_YcUDm28qww=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/EFuwCsRXHV-wL3CITq8UHvmTycnbQXWaua_Z0D7fQxbDE0K5Q1Ztw12mf-xJ-OupLh4ihhMz6op14bdm0ztO=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/2Aq4mnhsam_jGAPtwf3jiaN0EcLQQAlTeeTzF0EaJwi-P8DLebnukA3n1gsa6ZPODkczElLi4pRncX_q2pd_4w=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/Oljib7WWB85B-c0i-ScpXLKWiwjtpAxtXT7N1FVmH-p2mHC5ko5jWQXMsXyRwKh0SdPtPQ9VJtyC5qKDMoaNtlA=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "devduo_pdf_editor",
-        "title": "DevDuo PDF Editor, Reader, OCR",
-        "description": "DevDuo is a powerful PDF editor and PDF reader app featuring DocuMind AI, OCR text extraction, eSign tools, and a complete suite of offline PDF utilities built for ultimate privacy and high performance.",
-        "icon_url": "https://play-lh.googleusercontent.com/_x7vdqbf6QZ6KWjVmzjE9JPZ9RnrdQn1y6a-Pen9oS6y9QwQq6_MZmua8cMJ78l9LV3Dd2aRbFELmRR9l8tht4E=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/IGtrgkujn85qqEMYnjhPYBEFe5C9TgmmpR5T0kgGkP_SweUDrdYdQgtE1FwJIE10IENQvPYYUDoh1_WLRrkb=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/bPGkd9lQdajdNrNxsnSFMLcd7KI2BcmyEee4fnxgu5VwZk6Bkn2rudfmoBJJEpb7b6UTjJEDv5ytV8PAqa1bz3Y=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/Q12chjaMr3TR3YlREwG2Uygvb7fMVF28JX-MVBirv0yeaDUVI3XP3K5wep5KIiYSE_PCeGE7X4rRzieWqZwWAw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/ZARLkhGF1f-iPcLz9w5_tiMbWzvazhfzI48BnJCWsJNDT57zvf6IwJMG2mbHt94aY72lf93Zp6BAjs9kZm3gSg=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/iqdOa9EEWTM2nMb_r6305ThnjIQpzVjq-sBKwIRqYEZqdgj1DTTp75VH1xsWbMK4PSBAlXtUOEExhy1GF5c=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/blw8F9E_AqD0VWiGJan8Oi4OB8SLDwiLNanerBnx1PZjtbdYPyA0dQFwhnr6WvHcn7nEaxbhtYEfBNZOPqSpqw=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "devduo_pdf_scanner",
-        "title": "DevDuo PDF Scanner: ID & Photo",
-        "description": "Turn your phone into a powerful, fully offline document scanner and PDF scanner app. Instantly scan documents, crop official passport size photos, scan ID cards, and extract text with built-in private OCR utilities.",
-        "icon_url": "https://play-lh.googleusercontent.com/o262zVMenKFEQ9zyRpg_rO72VpStzfhHBmKpn1msf7wgANftLYRK0WgjUiHBzhvTO0OrlI76zYDZt6eOe3cA=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/v8PPAjc2Od_iN_q2F_RSL_HyfzCjv444-S8bm7kNv6ec1TR48ViH6xQYq8VBRndDvqCpc1helq9s9qRKAVz8wA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/uh3HozRi1OeYqHHSGpiXGUM-_piosboEA2HffduVgOAIVz2hsjsbnE6NpA4b6e9ih1lrfJQbKzK7Ac5LyqiH0g=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/vkr4wc2kCkT2GQqqgOlf91zJsSg-jM-zc9hXwb58D7S93qBwg6tKd7X3USqXT50RiHpYMfaxie70HLq9LTAAWQ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/Qvazt2eHXTEH-bT5AxnC978PKpsJH7R6ZbqTa9BYq1W34ProWf164TddAWdpjniGqSMmU6-88gdvp8DdTjK4=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/uINA90p7iTuXlQAC3LhPTyn01frFbU8EMbXHuPoQnyDOzo1-h1QzrNOGnL1yIqiiY8q5GktmktV5k0i4BJUfFg=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/uQ-w1XHPRk79EZV6Bpqn9FftJSK4AiT-IzN3-6sdu8kpVxtVIZ8TQERTw0net5jcQQ_8IcL-9NcwL0AZvVCCNw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/F20LSqE_207PfEYUJKVeNvDIXIAB74YSUuZhvaBJ3zMYCp_fihuwJmFB87CRuk9o9PddUhJ8nHHwR3w_lKFR5Q=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/TA8fOqYN4ccTFcv5H8eo8GTU5hE-OOwjf1V0qskNeIP4z3q2lJiO6UGmDd6-zk3Yss9qa4jh0_xSqBdeYRvG=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "discipline_forge",
-        "title": "Discipline Forge Habit Tracker",
-        "description": "Discipline Forge is a comprehensive habit tracker, focus timer, and ADHD planner designed to beat procrastination. It combines routine management with a gamified strict-mode focus timer to build long-term discipline.",
-        "icon_url": "https://play-lh.googleusercontent.com/KtpGbymZoif_OB6mnFhIc-uoi5nBFzFQCKXJEFqrNBp4vpKyZ5jRqduqUx9r0FR9iUI0SYU5cZsWpHeD9xzdlw=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/C0dovyEsUvZFCCDDXzzvZcHjqzbhnukInJX_X4uioxtgnn8bCl-73l3VH6Ls0KzlYyFw6NfZzie4wyUZyiiFuA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/5cgEMujkwwXHIhuR2Y744GPuOYPlH3KI4SmHHEsKG3LCaEbjg6lQbdRDKXCVP6KeDAtbCd4GUpMM7ngm742J=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/2R_ML1GizsLXIVS99pVbC1dBnWw7n8q7jCtMaMkBK5KFy4CVAzsZNV1iTBZxzLwnp9JuoxxL-pqw6yK4teGY=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/FhHVovLU4tGmX_2dKiPHgYVAkSyeA63bGdt7U29dufQrIvvm3nQtD4aygki78N7RLeNIjHpjlPJjYtZ-OAMKpw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/UOsAU0K7JPBgJxyn_zs8QMqgtAQ2_NPb0LdHde19AKzX5kwHstyt1df84hoLn2KJClZqPWXAL8QSf3VpjPj7hUk=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/_EyBBvQ9wZlAFcWc3NvQ-LBPxX403j919uS12iDSxrEtRGxjoEk2rxlPrPuyxHBvILc7pwmy6_UrvWkDGqm4dA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/5ye0hnwYCkg45Pj4JAEhV7DJJh4EmKiqMQEwgJWzwGbJLZ3ofkFClJ8UBLN2FLMXTHA8HmEeW2GE3uNGWzuj-w=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/LAwriSq9hm5R_2wn6rsXdO4e-fX0tVqSy5z5zAsd5rHkJZUXVygIC1bdkhE8koFz2GnU2yqz2qKUHLng33LtIw=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "devduo_newszio",
-        "title": "Newszio: Personalize Your News",
-        "description": "Newszio cuts through information overload by delivering breaking news directly to your screen in an intuitive, swipeable format. Features a personalized curation discovery engine and quick, accurate smart AI summaries.",
-        "icon_url": "https://play-lh.googleusercontent.com/DheZ43QvWfA5nPyawQKrnCLxFxQUKgk6pNiy7Od6gzG1pD1GlN61-c6uHgYywL_Hztt6jHeZXdIFCkw-J2At=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/7gqRZb3Q_Y_TnKYwUiWB4AwqUNVyl_9h7C9DSAxrMX78QVh_LGHX6bE2anNAEu3BaTFeHjnSE3y42vv13pZgXA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/gEEeRabijMYDvdCFRx42OhO3NoDo2o1p-eI95tUw3KwCY-SRGNjdWv9dkSzMd_je_jg_sKnc2DJzYf_3QHI3CkI=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/7RIC79t6X1S7cWXSPTSmscrJ9SpC6ECq8x3_biqtvDRhjism-l2sY9K0OBw6U3shBOwtjeqAaRTVbr5MeT8ucw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/U75BeqHWT6DP-YIxDVu9-1_RJtIw3AGLxCexiAgaXfILZHLujPqpplCTA1g0uEtGgErZBJo0PkVXp2U3XLFl4g=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/lR56UknMt84MKsPU4P48sE39JXNnwUO1zKOANSqOAZ0psEsC6G1qTSi0fOqc2wcrwnHF__jV-W4itMHp85Nn7w=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/jMF3_bfBzwSR0RDVNjWcb0cL9WhN_-ggKcca1JwvUhqec8BX-7LAtbI9tA54FICuf9slMDMqyfscULfXSKPasw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/8p9H1xqN2xKZuTPZUndHFx8ixIrDrAlCXXW5YqcPixaeC_XQ3qSfsDEw64eHUwrpuROR-8hDcU80Bald7ZuTZQ=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "nomoredistraction_launcher",
-        "title": "NoMoreDistraction Launcher",
-        "description": "Reclaim your focus with NoMoreDistraction, a professional minimalist launcher designed to reduce screen time. Replaces your home screen with a search-first interface featuring smart commands, custom app blocking, biometric hiding, and a silent notification filter.",
-        "icon_url": "https://play-lh.googleusercontent.com/HSDpQXH1EtUjbbD3w7NjBRG9AN5Gd09sW7d4_kTld-nZdbNfmxfWBajxbfOj2VcXB7E3Ac7M641HyiMmU9a4rUI=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/vGib1n9oHHuHHa_NVnd1cciyl_itsoeZBEox5BUvuYEl48kt-ZIPJWvR50K0G3QH2h2dcOwnsNjXPqG3OhaBzA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/4oWvlO3bwOv5EHwsK5hlAWMF6xdBrx19zIpeJaF1UrwlQNwaRbpF8gk-ayxnaGMmlqJsaO-CkyC-srrJbTj-nw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/LwbrPXYSFBL4lvRrAVizM1TJzXItya30wfHzwX2GM2JDxAFTikWVp3Fq7g7p3I-trhOBvDJzbRzQuebwHyFK=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/BnlOXt7Smg0peoZDPxdE_9lgIuRiVfi3dFVxv1-N0QreGUeFR7Og1IMKwDjhh6ecctFprv9dtMV0ecb_q7Sh=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/K0NQJeMtsUAoD_ij_4neVWf6EuK5tx6npCinTtBIbfNXJ5BOs9Z_cQVp0hYeIyRzHYAIpaMb_sW_MWzhuksP=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/DzqXUu5O3QV9EvGj3eMxfj5WXmT6I5DjzA8bhGJQ5F5FthMxfkNaAJFGbf0sHjnafa4NEp3YBBUk45aPswAvN0M=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "photo_compressor_resizer",
-        "title": "Photo Compressor & Resizer",
-        "description": "Photo Compressor: Reduce Size is your ultimate solution to quickly reduce picture size, batch compress multiple photos, and free up massive storage space. Support target sizing to specific KB dimensions, ZIP exporting, and 100% private offline processing.",
-        "icon_url": "https://play-lh.googleusercontent.com/3PIP6CtS9TKEkOGoyyqcXO_g-Ze5FDWR2DnGe-94UH0zV2BZJbIXEQwl4lnIKhWvxegaTHOgtZsNdlg70n4asw=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/Vds-Hxpk5eIWSaB_BkCJ_EM6tEeV0T1O8LidEHtt7AQcANxXbE37EHhdLAbUaD7u0_uOLEhb_TV4WWPZ753l=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/5rSI5UOKLzQz-ZCnqlvkfTO6OXDNN0KzA-GUscwyTiVtPMQxDeZlgxo93HKK6k6BVLiCA0cN6XQh8Ex94CvZZQ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/xu1mjSu9ok3jZuJPMoKpvZaOZWxnd-X_3gmI_ufhmIyhtFKEKLmhqJF2CD0uDwjN-4NlWxs6d4BOhJxd4jVT-Q=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/XmSJB9zvbxlU--KMxkxtmsm5LyblYhFHAxySROSIblD0C1Ig3ndCsK7AWW6UKhIqL57Py0mjQF2c3EOQ4mTIO48=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/-TDe7HJNobIBEhpoj4LKHgmWQAXGdp_NCzEDpjI35aGm1Ixcy3-cV9mvsca8xxizclQKhKsqQaf4Z1WDNKdMz8I=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/UGD4jnGhKqgDvTnRdP7zQoa7zWeW6KA-DPUz-c8hYnnk6Gmnb1twoa799Gyfi18M_SqxHM_FlAG-8JA8HswVrQ=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "qr_code_scanner_generator",
-        "title": "QR Code Scanner & Generator",
-        "description": "Transform your smartphone into the ultimate QR toolkit. Scan barcodes and customize high-speed QR codes with built-in branding, custom eyes, and logo integration, alongside a dedicated offline UPI pay generator built for Indian merchants.",
-        "icon_url": "https://play-lh.googleusercontent.com/SRu8BZtULcUm_d3wI5TJennrBnad1iaFk0WoLvSFsGKljHv1K4E70URcM6O01uGtUv7vRl9-xXWAL7Nbo3Mq=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/bGsom_b7Yda6RCsNnOO8VGoAgClWe0a4QamrM_gSajEH0B5d28Dtvoa0XH6YJPLK9Vn36JWEwPEBr4pnE-bV=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/CCjWNZpxmdJTqYnbnRuExgvIq06NNh8TWilEyDAqwi4abQyxzi7maFcX0DK4BI7kJWp7Ml5eq-jSvgaSZUG1PiE=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/mEc-p-WXHkIe-IOl-4xDihco7bsXc-CyAMPGEzy0rWimUE05x_1URn_tHvbCAdCfayYU6SZdT6GX--koA7P3=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/H80AUrQTwNzXvn0u5Qgg4gu1aB1kyIoQohnI0Xe3EY-aRRu8IKMwucibBmowUjNVstGbrXnIyWej0bnlOOC4jQ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/tC_jm9zzmJwHvMWhoNNGczThbo_pKjo6wwvuryKbXRsBqSIwgfgZWla4ZMyTZVUXSFahyAygjstMI5Q4hALttg=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/o47cZJMMNwJfXh-nqkV5AYpEVnM4lZUHXdQI6Zy0WElhu9XS1-YWVW4Qh36xvdLDzULcbWAhRdbgyHGcCEYriQ=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "rail_junction",
-        "title": "Rail Junction: Station Empire",
-        "description": "Build the ultimate railway empire and become a master station manager in Rail Junction: Station Empire! Take control of busy terminals, manage advanced train timetables, expand passenger infrastructure, build food plazas, and service your fleet in heavy sheds.",
-        "icon_url": "https://play-lh.googleusercontent.com/gtkcb1i-QzTExxcnNK50mvu-juroLxt60US5uH4WqxKxhPHUMx_ZxIEfaldDiWRRIqFOVYK1aKK7rlBKUZwz=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Games",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/O5U4H8vjhdhzy_30-DF1sqDheTuIQPtbAx_T5-n6drbxhClgq3y58VuArOwA0W6JjfeTNSRPoHWy2RPePo_GRw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/kiBqUakRO1KiOL0jx1YuJVhVuYgWfIyL61W7bELWpJnQqSOt7E24Bo_oFgtRvubmuoIbbZBdtuXrxsxw2qHEoQ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/oaYPtJDu0gAnfszBcst8g8AoHNUeiNnuxqeCCVDqvzoGKlS-A9ZN9PGnJidTLdx0aguwsemFl9NTr9kQmIUnD9U=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/xGK1IUqvMfU0pPcjZgzErQiALO7dEf7_nbuSbz3lCXJOKeIgmQu-PGjvfH0vIqf9rVl1SKS3F3zT102Di6-aeQ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/k_XHFcF1VfiHx7kbbg2HVZGq7iSNyAVQIALrKAPh3Li7JXGi55R8JoJZ7_L-4E-IU0hjDFS9Ir_5caykAmBusiQ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/rFRkVa9O0sMmovtbksVRUdk9KdiDPc3-9QD_XLWRUEv0iUMeBOKQW2UVfXe0mq56fjGJmmJAgE9RvA4hu4PWWw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/Ffyyu7DC4iM3gf1zgxOIUQANNL5N4RFj-kwSI7HpkIZdaebvZDoiQsS2JZH2DgORpN_RTLKKvTTaVU2koTo5_g=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/BmeDV5zi6nXa2mMX6M4ligxneSc4jfVSD7iz7Zb9g655vckuHnoyfVPMGvNdcPnROPRzM-igMFGUsqAyn7QlXQ=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "resumate_ai",
-        "title": "ResuMateAI: AI Resume Build CV",
-        "description": "Build a job-winning resume in minutes with ResuMateAI — your all-in-one AI Resume Builder, CV Maker, and Career Coach. Features an ATS resume scanner, professional template switching, cover letter generation, and real-time interview coaching tools.",
-        "icon_url": "https://play-lh.googleusercontent.com/PSf_7c1gVKWyxJFuuVXwxFDievaG8rma1wBfV90bcm_EhXBBV5TkHKHmS3yKV7WNUPA_vLQpKqxqQG2-F8Ov=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/vGI99kCYJljYvkzpMUC4PnGax9ufErqLI1OlR-GoK6WgABiAQ0CAQF4ApvqD7_TuDBsQ_mSLokBF7GgZEsXA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/LYoo0l3OhumOXgz9P1oLAPem6DiWdsskkhyO7vf-ppxi4eaHUqTDaDfsmrHlAdStV7Jc3iwYI56zGb9MNBG73g8=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/ZOi76BcPgxIExGIaRnwFp5yjNUI415nSQjoffvjg-66FmpjAZ87i3hPsAPGl5RmW4z5y_Scct5DO7saGMimgHA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/NukbfGJ-JNO0LhIosFEFP62yhVTc3fVDt8YuRsL-FEK1pEmVqhvDEE0w6AT5MNEwKSz4qAvWwNLjEIEWAfZvUg=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/qJshRWVJFeoceJcCZgI4m7i7TiHWO__03oCrVnNuYp_a4eJfj7EVJxN08_eD9KjPId3bhaY0OxIg6sTDn_Vixsw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/v6Z7BaaVaoDbnh_2lnGp4bGBc6FLuTGYgxN16VlQZOSNvf9snZcFYENAsnE-bkFnu87TJwvURjfWv4Rc4MNMNQ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/30B44UE-6S5a5Kpfda3zIr-FecEfyhmbt21dCqoTE8thDK71cWwG0-CSUcZjmZAHlfOFNjqTAKBPHx7xYq1QyfA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/vuvO0_GEGW4u2axUquQpFcOPD3Bm5v57bJy4-Ok8uu8nKYDyNGbn2x5x-spHMo4ojCrkx9fB2teUZIvW5F_0gQ=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "safekey_password_manager",
-        "title": "SafeKey: Password Manager Safe",
-        "description": "Secure your digital identity with SafeKey, a zero-knowledge password manager and encrypted vault. Features AES-256 local encryption, instant autofill, breach radar monitoring, intruder selfie capture, and hybrid cloud backup via your personal Google Drive.",
-        "icon_url": "https://play-lh.googleusercontent.com/fL1szEF80gdjwkI9JD393XiW8Njy5qw38oTTWs9QRLGb_hAAkHoQl2gL1EQnGmKGme8Qn7rD9xDFzeO-TaKRUA=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedpassword",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/GTGDZLgbNoPqleYuYzIqPxGkIRwG3tlsfdLC2NJ1Rvg7v9xOu6wFz5nQ1kxgxDkdx945popdq8-7UDxQ6BlB9A=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/z3tn9K-7KFyefM-WBmmkcxgeMObF44oW6OnKTMoz2nEDeqqoIpDAcOfzsuv-RJizUWRSComnpH-MRYn7b66UjA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/AbTycM58K3AGtxYBbzVmOip2u9ea-Ata7jwdNFUaJ63MDKg5BItulhjXmV6vWG6MpreYoj1HnwpvJWQVRGSm=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/h9PxpjYT5fKkq7Si9xdtN6pewZwyxTFPdzFclCH-sb7uVF9_Q1qs-Ro8Gaznxy4K5WsrXDEIT_zcUjukk3VD9g=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/voz1zqpWC2j6iXZbiKAfLGEcpXGYB8IPKF3CMY-pELVsICY65SB1y32bQnPODTZipdcYZEZEbmKVZmqK8N9m=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/q87RlHSFD3SPbKLMI5CAppa3goohvbKLovaZtSM08opMJhbU4YN2hG2rehFvlL0QVcfvaJfPFCz5uuXOVRjAGQ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/FQ5fFmy4Ec8NMXTNSkTtu9tEH-nZPtlSuqFxmQ33frnPHT-ScNWCKjrCEOb6SEQpDdre-jPXyyeg9dl-20BvWQ=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "safekeep_vault",
-        "title": "SafeKeep: Secure Folder Vault",
-        "description": "Safekeep is an advanced file locker and secure folder vault built to hide photos, videos, and private documents. Operating on an offline-first, zero-knowledge architecture with AES-256 encryption, it features custom folder organization, cross-device Google sync, and premium stealth options.",
-        "icon_url": "https://play-lh.googleusercontent.com/xvj_ERCVi1zPcRyiZSuz7F9uPmyUXQm5eHvuCLAK5QOIQFBvBOgiAZdJnEMgO5heVNQ1cuXkJ_8IsoT6V0QY=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/bx16kuhANsMGc3fdq-5hC_kGdvgEGUIfg0l9HV0pdBr5NWlitpvIVr13zcg5kWy8PGFurutcpVmBnMPk-oKowR0=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/W6JUEQ8xnfLqMgP3PNTGsoWa4Ks1QBwc68opeWFBqa0h1xb-gaa2J8x2Ksz7yMo7WC4IwbmTmw2gJA3kxde3yg=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/ycEZ7a6T9sELnK1Pq8r0_L6J5DH7dS8Ipsp_3nyCWG6ajGzRuJtfR-qFYZvGLWls-ugoy1OfBE2tVSvZ_lLKIYc=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/6EGllvgtdjJBNtNxclGWcvQBUsVAWrV6EywMk1i_U3KwzOWPLwLVmxLB_7ICjjmzPa4x5IkfVQC4A8AYoNT7Tw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/t8_qqP2T87sUn2_v5UMazibDh5yPYspyxa7MLaKz6l3Piv6GSfd1nfifChqMdhUNGNV_emlty1pR45M6NlVFElk=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/ol9zR-av-xwvhbsU3IvDOZu3fpXM4YNl1_eQjussgOfKg8Z8qF8Uw5-DR0CdBqDZb2cqnLMVQPAQjx2CWxM_Xw=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "save_anything",
-        "title": "SaveAnything: Link & File Save",
-        "description": "Your ultimate personal web vault. Instantly organize, clean, and save web links, media files, PDFs, and documents directly inside a secure local database featuring smart link bookmarking, auto-tagging workflows, and digital habit insights.",
-        "icon_url": "https://play-lh.googleusercontent.com/ddvFW3biXwZqg5CRC3Kz3shsYXH4eP7bLaIHuwUr3nTOcnhybmLZXzerzCppRk4w7lTRUdyM-z7rVOdBu2EdrA=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/-oLIBVSKCuSWBudWJ4gotbxxaHE0ckvMRIpQrt8blXVpfh9YLyc_5odnhXwz4Lr6R9wnPF0q4QWpvq_WvYTD=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/jq4xTYoYACy-wR9zqs8aSZKLf8FiOM7dVyp7qKdoRRZYUGiYqqBTBMy_N9-knZMAerA7-SBTf7hMQGnLplLrVw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/9zvlnbat1mSQS9BE0WdozfzSdju4PaeQ_kWd-ZeaHqrYMnCaOs56Gu4HdRjO-_Zbm_T5c3gI5mswaSjn3L90=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/TCb6D7fspfSmipxX4af3CmmXiHQS_fGlGXXqJ79AhJ71VVSjcMrrZ7MTLZ8bEWiIB73vWVGvNtkb32X-NSWqmg=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/KqWyTgGHyM6XA-dZzcqnmYHv3rMWofM939fR4GTSXPF6YRgF_ECX3faKjg-lrwf1sdm34jf5rnJe2Z5imNIs=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/6z7E8NNyXEZ0DdCdzQDTB4-Fj_7kSqwyOQvFmKtHb-tXGdLf8C9A9zrlKraTt4q69ooMNJS4ymZ12uK9DCTn-w=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "skillsprint_learning",
-        "title": "SkillSprint: Learning App",
-        "description": "Unlock your potential with SkillSprint, a comprehensive learning platform featuring over 200+ interactive courses. Master software coding, accelerate language learning, and study for competitive exams with a gamified bite-sized lesson engine that operates completely offline.",
-        "icon_url": "https://play-lh.googleusercontent.com/tJKzTaRWh-QRKpwSa5UkYj4nFSLVbUaw5obCS0Wad2k8V5R23P6XZNv0AVyclelnrLEAXK_KefqbKYtFxAjIcQ=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/IWpZnpZ4DMjMkvUji6RvXZAlJBGMbBPTDKqCFdSOztBoxEcKPhOCWqknyUbGtamBDuyXUPqrNYDXctz0ptuCQQ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/8i7yiGTU5nWRpSnUciXBX318snQvKolQIYxjwUbpRkCX6vGf3qrXU2K9AZUNy1t5KHBpl-SlaLPxu83LTg1o2g=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/l8Uxwdzw4WKaXAPsMfYb6KwYsmjjVokg-1ePl9W8LmIQ67aFXKE2wr8HTFf21R5oIDHLuXwXtccwWiRPzWo6O8E=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/i7e2hS0PM9yZi1kdNSL4uziffPuhVRXwrQ-18ZrWSBp2cAGBzWRvOk8l70cQZ3RmIaM1ugm3JxtRbjifj4QGc8U=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/HaClYjiUm2KhGXtB3t9ylJ6viOpkXRawmpdurhENvl0YLwD9YjtoQbskL9g_Sk2OGXWZ0C-WhBlEcw9pNwLFQA=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "smart_bmi_tracker",
-        "title": "SmartBMI Tracker",
-        "description": "Discover your path to a healthier you with SmartBMI Tracker – the ultimate BMI Calculator that makes tracking your body mass index a breeze! Features intuitive weight and height tracking inputs for quick, instant, and highly accurate results.",
-        "icon_url": "https://play-lh.googleusercontent.com/2ZkYRQBy3DfA6A3B8D9J2Z2kvnyxLMf7SRkaZ5kjDs3bTSJch7idLvKItlK6bbCjv8gT9hBCrnP3dhMEaxal6Q=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.bmicalculator",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/sU9HHl04iCrFnuEOoF6ulcIQi6Uk7miDKvqr-rGZPdl43qTEoU2ZR7DMcujIDmKK6z5pnVG3NtV2NvcFfiokbw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/dFGvBB6VWpK-mEJTuT61I7Djq2LyhJL1GlUBZkphCbI9nItOX74XGLfvPem6Sr5nqbuu8H3D4Xth57SBrOJzyQ=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/SS7u4SnIBtLBlMZcES1LWRb8UoFnJ1SPH-VvfEq9lSJGg73MWMlaVOz0hRLCPDwmFGKZMbAWUo0kEiIc_B15aSU=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/NJ0fqlDV6KELT13oI-NY8ww8c5lY1RejsyJDP59jgv1chdBkeW3Fxiysj282Ynv69HB9_knzEsHyPvh3zqSh=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "ttt_battles",
-        "title": "TTT Battles",
-        "description": "TTT Battles revitalizes the beloved game of Tic Tac Toe into an immersive, one-on-one competitive platform. Strategic maneuvers meet diverse personalization features, theme customizations, and built-in cognitive logic challenges under a secure, offline privacy-first environment.",
-        "icon_url": "https://play-lh.googleusercontent.com/EedjnPdljyNuM6EJng3qMkx_ZKB4nBxm84aJHGbt3ZuD9wNhCkAN073q97RQBsRJ9r5YyEldyivCkgpL08nE7Q=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.DevDuos.tictaktoegame",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Games",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/6fyDV2rIs7Wcw4GCDtsUu3RIOr1QIOY9bGXS_nN0-lpmupkM-pBZHv-4-elyKxDrTGy_QMCKfAYNPmlxb6iV=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/Ut9sPH8vWl2fIQ_JSJkHpG_EjlQnftFrk0q51r3A9jF55TM2n5-ZtA7--pM0P1cFc0vK5mfY3a0j0VOAgWuwlA=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/YMwPUEJtJrVn_UY0fGVfAGw8lQjJO2Qwn87kWZ8qMKqyBDvWRbaCMx3CjuXWtQmYJZVGBpg0cy1-bfnub0Dd=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/HGkXxGaY2lgR8yi6Q3k7OFgOICECZfhMFGP1Z50DwKOugM3IkxB8K47pwVrPKA3z-0v4qZKq7tRM7GgNsoxrgQ=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "devduo_tymio",
-        "title": "Tymio: Aesthetic Clock & Timer",
-        "description": "Transform your desk into a cinematic workspace with Tymio—the ultimate aesthetic desk clock and productivity companion. Powered by Motion Engine 3.0, it features 20+ flip and flip-clock style text animations, live soundscape atmospheres, and an immersive customizable Pomodoro focus timer.",
-        "icon_url": "https://play-lh.googleusercontent.com/FIrBkwfgzyOz-0E1-ip0PM9Z8cxC9voXLVHRvY3faXkk9WTpr9m9_pyTy9wTN-QuA80OFJsKDhW5FlZ7DSgLKLs=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/qIVGmq0xYOJLKM2hbKqORShUm_DsctZzoy0RGKwgBu7YaK1yFN1Hg1YBbZfY5_goHyZSiM_0fi6Ich0HX5hc=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/MPTbpIPkLN9mgE0em7RFGR8mvq8gLVzThVyLFVgJF8MMDhEAOXdqk-11LkvKDvG1yEmztbqhX1er_DRL7uqEkRs=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/IXcaKnBDZWXhQtcsNv2zTR8FQWwbxgRxl2Exw6zB-i9E95PJpmwRz_fgzqiSZNFmIMeTfmLcRMOQkenVDUL0=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/J1UVyeIGFQ40HYWsyrelOTpNmiRnn7m15qin8VqOVth8EgX6bfgfrmLt1Ss-WGDP44YiE-9w2jeYGH8yu8sD=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/l-KcL1AK_PZhskwEaQhitptJRm85N4lTR01s-gLA_r-5lbsHuL_Hy9FfVjYnS011WZ-9hfjdJWQht58ccQTTdQ=w526-h296-rw"
-        ]
-      },
-    {
-        "id": "web_to_pdf",
-        "title": "Web to PDF: URL & HTML",
-        "description": "Transform any website or live webpage into a seamless PDF with no page breaks using Web to PDF. Features an offline URL to PDF converter, raw HTML/CSS developer mode processing, and a continuous layout generation engine.",
-        "icon_url": "https://play-lh.googleusercontent.com/-YSkETFKDcweeJ6ayK2UQxxgFsk_btZWSut3qu8PY17tkXKNT8O4-bYeUaWT04gNVIpm3tzXNx4V43Az_TmDaQ=w240-h480-rw",
-        "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf",
-        "app_store_url": "",
-        "mac_store_url": "",
-        "windows_store_url": "",
-        "filter_category": "Apps",
-        "feature_images": [
-          "https://play-lh.googleusercontent.com/Y75Uv5r-k7_t4zwKLA08HhTPNMKimaLF2eVwOFkw00euVqXwFsTYh92P-wlULYwjIHrC_kCGSavUl0dGRRAyjcg=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/xOhxTV5zd2JWwSSWrV2fMdGxKAyh2OxxHy3-9sYBjTjuR90v4Qebt5kRuk22lQOy60YHQ4oXJQFIOoCsFF7f=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/Kqx-Ts5onV3y9oH1Us_HvZqyE0dZHi_CQp_hJRO635Xx6jGRUXLulsudH6FQ9ObBLZlCf7NqODkR-jzfWV6nS4I=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/iUnqWHdYVuoKeGG3izWVgLSCyoKDPuK7XQUvvF2g4e0ictQ8IG5V3kTinRiyTFN_THO0PoyNJVzZOXYYeTtgyw=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/-xCscbkGjRWROIh8IhSC0qZhEYLVOnt3iVk6WiXDj89zMhRVn5vB2CS_vNY_0aipEQejkn_FW65a6Y_Z0E_E=w526-h296-rw",
-          "https://play-lh.googleusercontent.com/xwhU79hz6DR9viOAZBIp48Vx8NYKxPQqmPDKhQU2G5vSmmtURWukjHCiRRPvdbGVjA9rfPR9X4ZnwFwLhqyz0g=w526-h296-rw"
-        ]
-    }
-]
-
+  "all_apps": [
+      {
+            "id": "stretch_10min",
+            "title": "10 Min Stretch: Posture Fix",
+            "description": "Improve your posture, relieve neck pain, and restore joint mobility in under 10 minutes a day with personalized AI flows. Access targeted desk resets and full library recovery routines built to melt away muscle tension.",
+            "icon_url": "https://play-lh.googleusercontent.com/rQSzSGKDpG3EZLuA0oLN8JruZAgA3rraJu2PHV4OLU5qBRhrXOnITYi69wTQGsqnskjFLRGG8CXVhlewiet_jq4=w480-h960-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.tenminstretch",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/uhp-vojh14hoXCt2ilnzpzzjlB8kD1CVuX-M2cqeVuP7Z8Ewa5Cu6W25jA9jg0CpoIvISLQZXholPcgUUDJsOw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/9Dl8wCp_-venEvgmDRPc4tiV7453l_LgmsINrjQpRXEthiFnvK9YezcPcCWQbl-sTUAjXJKkK4yzvV-rc9gS=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/Glx98A4Cb20XOA11mgiy5c5l-Oc5NelVPjPdJoJWypDycfXRlZt70g0nM4-tF7emSID07BOaFJNn1gI9Khdikg=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/aBz2ih4uQUu1e2C8bUix9C3Foe32nQdpCIEpVUQcOmG4jJxg-1tQ1ORHituFTbrwgsnzf0Wng5m8DM5hkEPz3w=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/TxK6s4WF_cGeINYTHl_dKGC_kiEi5HROLgBrEL_u7g01FGhGQSRNHGvJaGtTL3kcMr9h9FUNjLZXVsxt97zZ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/d899ei66sytFdpKl7HpjQmKUJiGE892MGASv9ukD-ij-rAwIq-jL3MF6bG39MdFsMp3Ze7tMr3bjzg9_DWTXVg=w526-h296-rw"
+            ]
+        },
+        {
+            "id": "id_wallet_3d",
+            "title": "3D ID Wallet & Card Scanner",
+            "description": "Transform your physical wallet into an interactive 3D digital vault. Securely scan, organize, and interact with driving licenses, government IDs, and loyalty cards entirely offline with smooth, responsive 3D interactions.",
+            "icon_url": "https://play-lh.googleusercontent.com/zc4D6jz4eLdJVOhAA_9yNmFRVQn3ts_yCsAM0JpFCI-Rsu2Ia0d2_w6ZmLI3f12_gIYJJ-P3p0Onz-j7mFBfi0Q=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.docu3d",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/tqwn_eYdIJBZneGrm-nzoN3cYZv64i1ZlAGo2GN9jQQz4Dwmaxa0aXVQ88anFjuxlZJWRfntUBVTefbjysf39w=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/IA_x2M2cTZ-xy1X9vFUX4N8dPvSV_nqlKjFVG15sl102cKJ_FQ3KYXM-xUVp0VWmNxiVo-UbScADP4FZQsgOYrU=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/c9ngnepvui8TdHy8Ra3nEcVehy_Qbftwm5ljfOs6uABCxFM9QFTnUrLeDoPtR9-NaEbl-GlwCOGVulUV4oU2Kus=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/yGVEAJhmAus-dc9fRV4S8HxAVgFSsHXUPAHWW5Z2U4qc8PEk-cXhylQXtHXb43F41uuxjJVIw7ztpuXc1f5Vr9o=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/fYSmEwdAH4zzWHk0cjSDqcwMt-UcNSuaSm3vdgBrzeQWgqiTOJRKhhlM4jSrDvaTeVslZjAPN9TgLIhCuirK=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/0J5ikNyUtlw5WxCcZygWK4W7Lu79ngYEeYJffKzHHkAfBGldr_F3DwGS2FRxHZH3NeXRUHhairEjhvNhAjfS8g=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/maaMcHn2BREW31AeBBKBQAcHAdo87EJAOzMrTGQKLJGeTZGRu-SU1XEXC5KGufiVYVwAKOKHh2XRGgdNBVfo=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/RbZyY0oA5I50J4Ju8Qe4gy85v3NCN3MWkgJUPR4Z4dFqN0QSnVq3NKCvv2iy7JoqFgElh85dkl0HNMckKITeWg=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "habit_tracker_allinone",
+            "title": "All in One Habit Tracker Daily",
+            "description": "All in One Habit Tracker is a powerful habit tracker and daily tracker designed to help you track fitness, water intake, workouts, and personal goals in one place completely offline.",
+            "icon_url": "https://play-lh.googleusercontent.com/3z-nA1Y_Hy_f2nqC0zx0vkDDgN6PjgDmAEQXleZbruwONRwiaNzA4zFIAzl7hWxpfZ4v-CfREMJcn9HNI2gd-w=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.all_in_one_tracker",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/K9GXFjjKz9X-YbjecCuTbJXY7LtXyLQV780dNVOOclVbrCzRPxI4eYxJRLk9y1rE3h_ed9BAIcm1veZOtcPy-qw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/FGg4AH6pxxLm2tXmPWMlGewFfNrvzotab8G5Z7UVMCQmj4GRwTGa81xvnBrrMcrKRkvEEGfG_qbm2S0WcFZk=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/XYv5Z1snnWECUo56IFf92KV2VQBCJ_PU9__LIf5YGH1j-4-hpqGHsjv5FinHdYS7ipqEI3B2TcdUZRTLwNpT=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/8ewIT0v3hGH6h6sLRFLKV_YYGBpQ6FX8Vn_buSe13E6Di9ywoZFXRXrtBHHsNUz0kBiuME8wcCbTgzy1H5xu=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/2Ki3_DuqaIL5Te8e2IeGJzBhMYQQKbqyUx0YDI2-KU8xVM6hAR0sKAUu1jacF3gT4grrTaV2IHSHi2K8o2VvJA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/OCprY_7fgGli5Ma8GSr-NrfhQmItIcuuauGmwUrFzZJ74i0vffgrjekBWGXlvKZ9bNec0_r8aWPmZnEqTOimOA=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "devduo_ide",
+            "title": "DevDuo IDE: AI Code Editor",
+            "description": "Transform your device into a professional workstation with DevDuo IDE, the advanced AI code editor and mobile integrated development environment. Features a smart companion, auto-fix compiler sandbox, and syntax highlighting for 100+ languages.",
+            "icon_url": "https://play-lh.googleusercontent.com/exFCMg3IKVv6jqjfUlT5-ikRQUI3x2enIRYvNRKNg_AVTPDFRgOVGDU10C5Gj5PZfb9D3kz2fOgTzYHVpux92Q=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.programmingfileviewer",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/s6cr5Eg_DTM_oTpvP3pU32bXUk1jXYJ3iRx6WmHKoskArcB4uHTaH-96T6tRUGL1QRNJ1if9Jr_VJ4ugwqd6-w=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/ySUDcBLpA9sfR51mE8InGif36cPPYiW3XF2JIgFhIBYFCVumxr-95QVzvrUycd3DASBmxqsMTp93PLwgmjBvbA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/3qx_Q38kyXszLxaNwkoVObcyHnqlAIi1NdU4pnWrwfALk_-TPSpDw2ofKOCLeZf2OHwQ6gf-dflpghv3MNug2g=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/E3X0ODltOFGARBfsO80AVvGNsxVMC_ROwoUyG19G-7r2hzc5X7dV2mlhztvaL640886xTO94EgyaCU-OEBdVJw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/VD_OV1VK4VgRnKe3nLNmkE37MGpVY4_xvBhCLIyBwbJ_QxOIae52U7_oLznw2-Z--Tgge_i2XCB_YcUDm28qww=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/EFuwCsRXHV-wL3CITq8UHvmTycnbQXWaua_Z0D7fQxbDE0K5Q1Ztw12mf-xJ-OupLh4ihhMz6op14bdm0ztO=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/2Aq4mnhsam_jGAPtwf3jiaN0EcLQQAlTeeTzF0EaJwi-P8DLebnukA3n1gsa6ZPODkczElLi4pRncX_q2pd_4w=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/Oljib7WWB85B-c0i-ScpXLKWiwjtpAxtXT7N1FVmH-p2mHC5ko5jWQXMsXyRwKh0SdPtPQ9VJtyC5qKDMoaNtlA=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "devduo_pdf_editor",
+            "title": "DevDuo PDF Editor, Reader, OCR",
+            "description": "DevDuo is a powerful PDF editor and PDF reader app featuring DocuMind AI, OCR text extraction, eSign tools, and a complete suite of offline PDF utilities built for ultimate privacy and high performance.",
+            "icon_url": "https://play-lh.googleusercontent.com/_x7vdqbf6QZ6KWjVmzjE9JPZ9RnrdQn1y6a-Pen9oS6y9QwQq6_MZmua8cMJ78l9LV3Dd2aRbFELmRR9l8tht4E=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.pdfviewer",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/IGtrgkujn85qqEMYnjhPYBEFe5C9TgmmpR5T0kgGkP_SweUDrdYdQgtE1FwJIE10IENQvPYYUDoh1_WLRrkb=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/bPGkd9lQdajdNrNxsnSFMLcd7KI2BcmyEee4fnxgu5VwZk6Bkn2rudfmoBJJEpb7b6UTjJEDv5ytV8PAqa1bz3Y=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/Q12chjaMr3TR3YlREwG2Uygvb7fMVF28JX-MVBirv0yeaDUVI3XP3K5wep5KIiYSE_PCeGE7X4rRzieWqZwWAw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/ZARLkhGF1f-iPcLz9w5_tiMbWzvazhfzI48BnJCWsJNDT57zvf6IwJMG2mbHt94aY72lf93Zp6BAjs9kZm3gSg=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/iqdOa9EEWTM2nMb_r6305ThnjIQpzVjq-sBKwIRqYEZqdgj1DTTp75VH1xsWbMK4PSBAlXtUOEExhy1GF5c=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/blw8F9E_AqD0VWiGJan8Oi4OB8SLDwiLNanerBnx1PZjtbdYPyA0dQFwhnr6WvHcn7nEaxbhtYEfBNZOPqSpqw=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "devduo_pdf_scanner",
+            "title": "DevDuo PDF Scanner: ID & Photo",
+            "description": "Turn your phone into a powerful, fully offline document scanner and PDF scanner app. Instantly scan documents, crop official passport size photos, scan ID cards, and extract text with built-in private OCR utilities.",
+            "icon_url": "https://play-lh.googleusercontent.com/o262zVMenKFEQ9zyRpg_rO72VpStzfhHBmKpn1msf7wgANftLYRK0WgjUiHBzhvTO0OrlI76zYDZt6eOe3cA=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.pdfscannerpro",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/v8PPAjc2Od_iN_q2F_RSL_HyfzCjv444-S8bm7kNv6ec1TR48ViH6xQYq8VBRndDvqCpc1helq9s9qRKAVz8wA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/uh3HozRi1OeYqHHSGpiXGUM-_piosboEA2HffduVgOAIVz2hsjsbnE6NpA4b6e9ih1lrfJQbKzK7Ac5LyqiH0g=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/vkr4wc2kCkT2GQqqgOlf91zJsSg-jM-zc9hXwb58D7S93qBwg6tKd7X3USqXT50RiHpYMfaxie70HLq9LTAAWQ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/Qvazt2eHXTEH-bT5AxnC978PKpsJH7R6ZbqTa9BYq1W34ProWf164TddAWdpjniGqSMmU6-88gdvp8DdTjK4=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/uINA90p7iTuXlQAC3LhPTyn01frFbU8EMbXHuPoQnyDOzo1-h1QzrNOGnL1yIqiiY8q5GktmktV5k0i4BJUfFg=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/uQ-w1XHPRk79EZV6Bpqn9FftJSK4AiT-IzN3-6sdu8kpVxtVIZ8TQERTw0net5jcQQ_8IcL-9NcwL0AZvVCCNw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/F20LSqE_207PfEYUJKVeNvDIXIAB74YSUuZhvaBJ3zMYCp_fihuwJmFB87CRuk9o9PddUhJ8nHHwR3w_lKFR5Q=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/TA8fOqYN4ccTFcv5H8eo8GTU5hE-OOwjf1V0qskNeIP4z3q2lJiO6UGmDd6-zk3Yss9qa4jh0_xSqBdeYRvG=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "discipline_forge",
+            "title": "Discipline Forge Habit Tracker",
+            "description": "Discipline Forge is a comprehensive habit tracker, focus timer, and ADHD planner designed to beat procrastination. It combines routine management with a gamified strict-mode focus timer to build long-term discipline.",
+            "icon_url": "https://play-lh.googleusercontent.com/KtpGbymZoif_OB6mnFhIc-uoi5nBFzFQCKXJEFqrNBp4vpKyZ5jRqduqUx9r0FR9iUI0SYU5cZsWpHeD9xzdlw=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.DisciplinedForge",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/C0dovyEsUvZFCCDDXzzvZcHjqzbhnukInJX_X4uioxtgnn8bCl-73l3VH6Ls0KzlYyFw6NfZzie4wyUZyiiFuA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/5cgEMujkwwXHIhuR2Y744GPuOYPlH3KI4SmHHEsKG3LCaEbjg6lQbdRDKXCVP6KeDAtbCd4GUpMM7ngm742J=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/2R_ML1GizsLXIVS99pVbC1dBnWw7n8q7jCtMaMkBK5KFy4CVAzsZNV1iTBZxzLwnp9JuoxxL-pqw6yK4teGY=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/FhHVovLU4tGmX_2dKiPHgYVAkSyeA63bGdt7U29dufQrIvvm3nQtD4aygki78N7RLeNIjHpjlPJjYtZ-OAMKpw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/UOsAU0K7JPBgJxyn_zs8QMqgtAQ2_NPb0LdHde19AKzX5kwHstyt1df84hoLn2KJClZqPWXAL8QSf3VpjPj7hUk=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/_EyBBvQ9wZlAFcWc3NvQ-LBPxX403j919uS12iDSxrEtRGxjoEk2rxlPrPuyxHBvILc7pwmy6_UrvWkDGqm4dA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/5ye0hnwYCkg45Pj4JAEhV7DJJh4EmKiqMQEwgJWzwGbJLZ3ofkFClJ8UBLN2FLMXTHA8HmEeW2GE3uNGWzuj-w=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/LAwriSq9hm5R_2wn6rsXdO4e-fX0tVqSy5z5zAsd5rHkJZUXVygIC1bdkhE8koFz2GnU2yqz2qKUHLng33LtIw=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "devduo_newszio",
+            "title": "Newszio: Personalize Your News",
+            "description": "Newszio cuts through information overload by delivering breaking news directly to your screen in an intuitive, swipeable format. Features a personalized curation discovery engine and quick, accurate smart AI summaries.",
+            "icon_url": "https://play-lh.googleusercontent.com/DheZ43QvWfA5nPyawQKrnCLxFxQUKgk6pNiy7Od6gzG1pD1GlN61-c6uHgYywL_Hztt6jHeZXdIFCkw-J2At=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.devduonewszio",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/7gqRZb3Q_Y_TnKYwUiWB4AwqUNVyl_9h7C9DSAxrMX78QVh_LGHX6bE2anNAEu3BaTFeHjnSE3y42vv13pZgXA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/gEEeRabijMYDvdCFRx42OhO3NoDo2o1p-eI95tUw3KwCY-SRGNjdWv9dkSzMd_je_jg_sKnc2DJzYf_3QHI3CkI=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/7RIC79t6X1S7cWXSPTSmscrJ9SpC6ECq8x3_biqtvDRhjism-l2sY9K0OBw6U3shBOwtjeqAaRTVbr5MeT8ucw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/U75BeqHWT6DP-YIxDVu9-1_RJtIw3AGLxCexiAgaXfILZHLujPqpplCTA1g0uEtGgErZBJo0PkVXp2U3XLFl4g=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/lR56UknMt84MKsPU4P48sE39JXNnwUO1zKOANSqOAZ0psEsC6G1qTSi0fOqc2wcrwnHF__jV-W4itMHp85Nn7w=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/jMF3_bfBzwSR0RDVNjWcb0cL9WhN_-ggKcca1JwvUhqec8BX-7LAtbI9tA54FICuf9slMDMqyfscULfXSKPasw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/8p9H1xqN2xKZuTPZUndHFx8ixIrDrAlCXXW5YqcPixaeC_XQ3qSfsDEw64eHUwrpuROR-8hDcU80Bald7ZuTZQ=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "nomoredistraction_launcher",
+            "title": "NoMoreDistraction Launcher",
+            "description": "Reclaim your focus with NoMoreDistraction, a professional minimalist launcher designed to reduce screen time. Replaces your home screen with a search-first interface featuring smart commands, custom app blocking, biometric hiding, and a silent notification filter.",
+            "icon_url": "https://play-lh.googleusercontent.com/HSDpQXH1EtUjbbD3w7NjBRG9AN5Gd09sW7d4_kTld-nZdbNfmxfWBajxbfOj2VcXB7E3Ac7M641HyiMmU9a4rUI=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.smoothlauncher",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/vGib1n9oHHuHHa_NVnd1cciyl_itsoeZBEox5BUvuYEl48kt-ZIPJWvR50K0G3QH2h2dcOwnsNjXPqG3OhaBzA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/4oWvlO3bwOv5EHwsK5hlAWMF6xdBrx19zIpeJaF1UrwlQNwaRbpF8gk-ayxnaGMmlqJsaO-CkyC-srrJbTj-nw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/LwbrPXYSFBL4lvRrAVizM1TJzXItya30wfHzwX2GM2JDxAFTikWVp3Fq7g7p3I-trhOBvDJzbRzQuebwHyFK=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/BnlOXt7Smg0peoZDPxdE_9lgIuRiVfi3dFVxv1-N0QreGUeFR7Og1IMKwDjhh6ecctFprv9dtMV0ecb_q7Sh=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/K0NQJeMtsUAoD_ij_4neVWf6EuK5tx6npCinTtBIbfNXJ5BOs9Z_cQVp0hYeIyRzHYAIpaMb_sW_MWzhuksP=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/DzqXUu5O3QV9EvGj3eMxfj5WXmT6I5DjzA8bhGJQ5F5FthMxfkNaAJFGbf0sHjnafa4NEp3YBBUk45aPswAvN0M=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "photo_compressor_resizer",
+            "title": "Photo Compressor & Resizer",
+            "description": "Photo Compressor: Reduce Size is your ultimate solution to quickly reduce picture size, batch compress multiple photos, and free up massive storage space. Support target sizing to specific KB dimensions, ZIP exporting, and 100% private offline processing.",
+            "icon_url": "https://play-lh.googleusercontent.com/3PIP6CtS9TKEkOGoyyqcXO_g-Ze5FDWR2DnGe-94UH0zV2BZJbIXEQwl4lnIKhWvxegaTHOgtZsNdlg70n4asw=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.photocompressor",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/Vds-Hxpk5eIWSaB_BkCJ_EM6tEeV0T1O8LidEHtt7AQcANxXbE37EHhdLAbUaD7u0_uOLEhb_TV4WWPZ753l=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/5rSI5UOKLzQz-ZCnqlvkfTO6OXDNN0KzA-GUscwyTiVtPMQxDeZlgxo93HKK6k6BVLiCA0cN6XQh8Ex94CvZZQ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/xu1mjSu9ok3jZuJPMoKpvZaOZWxnd-X_3gmI_ufhmIyhtFKEKLmhqJF2CD0uDwjN-4NlWxs6d4BOhJxd4jVT-Q=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/XmSJB9zvbxlU--KMxkxtmsm5LyblYhFHAxySROSIblD0C1Ig3ndCsK7AWW6UKhIqL57Py0mjQF2c3EOQ4mTIO48=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/-TDe7HJNobIBEhpoj4LKHgmWQAXGdp_NCzEDpjI35aGm1Ixcy3-cV9mvsca8xxizclQKhKsqQaf4Z1WDNKdMz8I=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/UGD4jnGhKqgDvTnRdP7zQoa7zWeW6KA-DPUz-c8hYnnk6Gmnb1twoa799Gyfi18M_SqxHM_FlAG-8JA8HswVrQ=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "qr_code_scanner_generator",
+            "title": "QR Code Scanner & Generator",
+            "description": "Transform your smartphone into the ultimate QR toolkit. Scan barcodes and customize high-speed QR codes with built-in branding, custom eyes, and logo integration, alongside a dedicated offline UPI pay generator built for Indian merchants.",
+            "icon_url": "https://play-lh.googleusercontent.com/SRu8BZtULcUm_d3wI5TJennrBnad1iaFk0WoLvSFsGKljHv1K4E70URcM6O01uGtUv7vRl9-xXWAL7Nbo3Mq=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.qrcodegenerator",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/bGsom_b7Yda6RCsNnOO8VGoAgClWe0a4QamrM_gSajEH0B5d28Dtvoa0XH6YJPLK9Vn36JWEwPEBr4pnE-bV=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/CCjWNZpxmdJTqYnbnRuExgvIq06NNh8TWilEyDAqwi4abQyxzi7maFcX0DK4BI7kJWp7Ml5eq-jSvgaSZUG1PiE=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/mEc-p-WXHkIe-IOl-4xDihco7bsXc-CyAMPGEzy0rWimUE05x_1URn_tHvbCAdCfayYU6SZdT6GX--koA7P3=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/H80AUrQTwNzXvn0u5Qgg4gu1aB1kyIoQohnI0Xe3EY-aRRu8IKMwucibBmowUjNVstGbrXnIyWej0bnlOOC4jQ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/tC_jm9zzmJwHvMWhoNNGczThbo_pKjo6wwvuryKbXRsBqSIwgfgZWla4ZMyTZVUXSFahyAygjstMI5Q4hALttg=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/o47cZJMMNwJfXh-nqkV5AYpEVnM4lZUHXdQI6Zy0WElhu9XS1-YWVW4Qh36xvdLDzULcbWAhRdbgyHGcCEYriQ=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "rail_junction",
+            "title": "Rail Junction: Station Empire",
+            "description": "Build the ultimate railway empire and become a master station manager in Rail Junction: Station Empire! Take control of busy terminals, manage advanced train timetables, expand passenger infrastructure, build food plazas, and service your fleet in heavy sheds.",
+            "icon_url": "https://play-lh.googleusercontent.com/gtkcb1i-QzTExxcnNK50mvu-juroLxt60US5uH4WqxKxhPHUMx_ZxIEfaldDiWRRIqFOVYK1aKK7rlBKUZwz=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Games",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/O5U4H8vjhdhzy_30-DF1sqDheTuIQPtbAx_T5-n6drbxhClgq3y58VuArOwA0W6JjfeTNSRPoHWy2RPePo_GRw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/kiBqUakRO1KiOL0jx1YuJVhVuYgWfIyL61W7bELWpJnQqSOt7E24Bo_oFgtRvubmuoIbbZBdtuXrxsxw2qHEoQ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/oaYPtJDu0gAnfszBcst8g8AoHNUeiNnuxqeCCVDqvzoGKlS-A9ZN9PGnJidTLdx0aguwsemFl9NTr9kQmIUnD9U=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/xGK1IUqvMfU0pPcjZgzErQiALO7dEf7_nbuSbz3lCXJOKeIgmQu-PGjvfH0vIqf9rVl1SKS3F3zT102Di6-aeQ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/k_XHFcF1VfiHx7kbbg2HVZGq7iSNyAVQIALrKAPh3Li7JXGi55R8JoJZ7_L-4E-IU0hjDFS9Ir_5caykAmBusiQ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/rFRkVa9O0sMmovtbksVRUdk9KdiDPc3-9QD_XLWRUEv0iUMeBOKQW2UVfXe0mq56fjGJmmJAgE9RvA4hu4PWWw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/Ffyyu7DC4iM3gf1zgxOIUQANNL5N4RFj-kwSI7HpkIZdaebvZDoiQsS2JZH2DgORpN_RTLKKvTTaVU2koTo5_g=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/BmeDV5zi6nXa2mMX6M4ligxneSc4jfVSD7iz7Zb9g655vckuHnoyfVPMGvNdcPnROPRzM-igMFGUsqAyn7QlXQ=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "resumate_ai",
+            "title": "ResuMateAI: AI Resume Build CV",
+            "description": "Build a job-winning resume in minutes with ResuMateAI — your all-in-one AI Resume Builder, CV Maker, and Career Coach. Features an ATS resume scanner, professional template switching, cover letter generation, and real-time interview coaching tools.",
+            "icon_url": "https://play-lh.googleusercontent.com/PSf_7c1gVKWyxJFuuVXwxFDievaG8rma1wBfV90bcm_EhXBBV5TkHKHmS3yKV7WNUPA_vLQpKqxqQG2-F8Ov=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.resumateai",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/vGI99kCYJljYvkzpMUC4PnGax9ufErqLI1OlR-GoK6WgABiAQ0CAQF4ApvqD7_TuDBsQ_mSLokBF7GgZEsXA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/LYoo0l3OhumOXgz9P1oLAPem6DiWdsskkhyO7vf-ppxi4eaHUqTDaDfsmrHlAdStV7Jc3iwYI56zGb9MNBG73g8=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/ZOi76BcPgxIExGIaRnwFp5yjNUI415nSQjoffvjg-66FmpjAZ87i3hPsAPGl5RmW4z5y_Scct5DO7saGMimgHA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/NukbfGJ-JNO0LhIosFEFP62yhVTc3fVDt8YuRsL-FEK1pEmVqhvDEE0w6AT5MNEwKSz4qAvWwNLjEIEWAfZvUg=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/qJshRWVJFeoceJcCZgI4m7i7TiHWO__03oCrVnNuYp_a4eJfj7EVJxN08_eD9KjPId3bhaY0OxIg6sTDn_Vixsw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/v6Z7BaaVaoDbnh_2lnGp4bGBc6FLuTGYgxN16VlQZOSNvf9snZcFYENAsnE-bkFnu87TJwvURjfWv4Rc4MNMNQ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/30B44UE-6S5a5Kpfda3zIr-FecEfyhmbt21dCqoTE8thDK71cWwG0-CSUcZjmZAHlfOFNjqTAKBPHx7xYq1QyfA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/vuvO0_GEGW4u2axUquQpFcOPD3Bm5v57bJy4-Ok8uu8nKYDyNGbn2x5x-spHMo4ojCrkx9fB2teUZIvW5F_0gQ=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "safekey_password_manager",
+            "title": "SafeKey: Password Manager Safe",
+            "description": "Secure your digital identity with SafeKey, a zero-knowledge password manager and encrypted vault. Features AES-256 local encryption, instant autofill, breach radar monitoring, intruder selfie capture, and hybrid cloud backup via your personal Google Drive.",
+            "icon_url": "https://play-lh.googleusercontent.com/fL1szEF80gdjwkI9JD393XiW8Njy5qw38oTTWs9QRLGb_hAAkHoQl2gL1EQnGmKGme8Qn7rD9xDFzeO-TaKRUA=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedpassword",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/GTGDZLgbNoPqleYuYzIqPxGkIRwG3tlsfdLC2NJ1Rvg7v9xOu6wFz5nQ1kxgxDkdx945popdq8-7UDxQ6BlB9A=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/z3tn9K-7KFyefM-WBmmkcxgeMObF44oW6OnKTMoz2nEDeqqoIpDAcOfzsuv-RJizUWRSComnpH-MRYn7b66UjA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/AbTycM58K3AGtxYBbzVmOip2u9ea-Ata7jwdNFUaJ63MDKg5BItulhjXmV6vWG6MpreYoj1HnwpvJWQVRGSm=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/h9PxpjYT5fKkq7Si9xdtN6pewZwyxTFPdzFclCH-sb7uVF9_Q1qs-Ro8Gaznxy4K5WsrXDEIT_zcUjukk3VD9g=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/voz1zqpWC2j6iXZbiKAfLGEcpXGYB8IPKF3CMY-pELVsICY65SB1y32bQnPODTZipdcYZEZEbmKVZmqK8N9m=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/q87RlHSFD3SPbKLMI5CAppa3goohvbKLovaZtSM08opMJhbU4YN2hG2rehFvlL0QVcfvaJfPFCz5uuXOVRjAGQ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/FQ5fFmy4Ec8NMXTNSkTtu9tEH-nZPtlSuqFxmQ33frnPHT-ScNWCKjrCEOb6SEQpDdre-jPXyyeg9dl-20BvWQ=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "safekeep_vault",
+            "title": "SafeKeep: Secure Folder Vault",
+            "description": "Safekeep is an advanced file locker and secure folder vault built to hide photos, videos, and private documents. Operating on an offline-first, zero-knowledge architecture with AES-256 encryption, it features custom folder organization, cross-device Google sync, and premium stealth options.",
+            "icon_url": "https://play-lh.googleusercontent.com/xvj_ERCVi1zPcRyiZSuz7F9uPmyUXQm5eHvuCLAK5QOIQFBvBOgiAZdJnEMgO5heVNQ1cuXkJ_8IsoT6V0QY=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.encryptedphotosvideoshider",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/bx16kuhANsMGc3fdq-5hC_kGdvgEGUIfg0l9HV0pdBr5NWlitpvIVr13zcg5kWy8PGFurutcpVmBnMPk-oKowR0=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/W6JUEQ8xnfLqMgP3PNTGsoWa4Ks1QBwc68opeWFBqa0h1xb-gaa2J8x2Ksz7yMo7WC4IwbmTmw2gJA3kxde3yg=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/ycEZ7a6T9sELnK1Pq8r0_L6J5DH7dS8Ipsp_3nyCWG6ajGzRuJtfR-qFYZvGLWls-ugoy1OfBE2tVSvZ_lLKIYc=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/6EGllvgtdjJBNtNxclGWcvQBUsVAWrV6EywMk1i_U3KwzOWPLwLVmxLB_7ICjjmzPa4x5IkfVQC4A8AYoNT7Tw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/t8_qqP2T87sUn2_v5UMazibDh5yPYspyxa7MLaKz6l3Piv6GSfd1nfifChqMdhUNGNV_emlty1pR45M6NlVFElk=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/ol9zR-av-xwvhbsU3IvDOZu3fpXM4YNl1_eQjussgOfKg8Z8qF8Uw5-DR0CdBqDZb2cqnLMVQPAQjx2CWxM_Xw=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "save_anything",
+            "title": "SaveAnything: Link & File Save",
+            "description": "Your ultimate personal web vault. Instantly organize, clean, and save web links, media files, PDFs, and documents directly inside a secure local database featuring smart link bookmarking, auto-tagging workflows, and digital habit insights.",
+            "icon_url": "https://play-lh.googleusercontent.com/ddvFW3biXwZqg5CRC3Kz3shsYXH4eP7bLaIHuwUr3nTOcnhybmLZXzerzCppRk4w7lTRUdyM-z7rVOdBu2EdrA=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.saveanything",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/-oLIBVSKCuSWBudWJ4gotbxxaHE0ckvMRIpQrt8blXVpfh9YLyc_5odnhXwz4Lr6R9wnPF0q4QWpvq_WvYTD=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/jq4xTYoYACy-wR9zqs8aSZKLf8FiOM7dVyp7qKdoRRZYUGiYqqBTBMy_N9-knZMAerA7-SBTf7hMQGnLplLrVw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/9zvlnbat1mSQS9BE0WdozfzSdju4PaeQ_kWd-ZeaHqrYMnCaOs56Gu4HdRjO-_Zbm_T5c3gI5mswaSjn3L90=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/TCb6D7fspfSmipxX4af3CmmXiHQS_fGlGXXqJ79AhJ71VVSjcMrrZ7MTLZ8bEWiIB73vWVGvNtkb32X-NSWqmg=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/KqWyTgGHyM6XA-dZzcqnmYHv3rMWofM939fR4GTSXPF6YRgF_ECX3faKjg-lrwf1sdm34jf5rnJe2Z5imNIs=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/6z7E8NNyXEZ0DdCdzQDTB4-Fj_7kSqwyOQvFmKtHb-tXGdLf8C9A9zrlKraTt4q69ooMNJS4ymZ12uK9DCTn-w=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "skillsprint_learning",
+            "title": "SkillSprint: Learning App",
+            "description": "Unlock your potential with SkillSprint, a comprehensive learning platform featuring over 200+ interactive courses. Master software coding, accelerate language learning, and study for competitive exams with a gamified bite-sized lesson engine that operates completely offline.",
+            "icon_url": "https://play-lh.googleusercontent.com/tJKzTaRWh-QRKpwSa5UkYj4nFSLVbUaw5obCS0Wad2k8V5R23P6XZNv0AVyclelnrLEAXK_KefqbKYtFxAjIcQ=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.skillsprint",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/IWpZnpZ4DMjMkvUji6RvXZAlJBGMbBPTDKqCFdSOztBoxEcKPhOCWqknyUbGtamBDuyXUPqrNYDXctz0ptuCQQ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/8i7yiGTU5nWRpSnUciXBX318snQvKolQIYxjwUbpRkCX6vGf3qrXU2K9AZUNy1t5KHBpl-SlaLPxu83LTg1o2g=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/l8Uxwdzw4WKaXAPsMfYb6KwYsmjjVokg-1ePl9W8LmIQ67aFXKE2wr8HTFf21R5oIDHLuXwXtccwWiRPzWo6O8E=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/i7e2hS0PM9yZi1kdNSL4uziffPuhVRXwrQ-18ZrWSBp2cAGBzWRvOk8l70cQZ3RmIaM1ugm3JxtRbjifj4QGc8U=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/HaClYjiUm2KhGXtB3t9ylJ6viOpkXRawmpdurhENvl0YLwD9YjtoQbskL9g_Sk2OGXWZ0C-WhBlEcw9pNwLFQA=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "smart_bmi_tracker",
+            "title": "SmartBMI Tracker",
+            "description": "Discover your path to a healthier you with SmartBMI Tracker – the ultimate BMI Calculator that makes tracking your body mass index a breeze! Features intuitive weight and height tracking inputs for quick, instant, and highly accurate results.",
+            "icon_url": "https://play-lh.googleusercontent.com/2ZkYRQBy3DfA6A3B8D9J2Z2kvnyxLMf7SRkaZ5kjDs3bTSJch7idLvKItlK6bbCjv8gT9hBCrnP3dhMEaxal6Q=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduos.bmicalculator",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/sU9HHl04iCrFnuEOoF6ulcIQi6Uk7miDKvqr-rGZPdl43qTEoU2ZR7DMcujIDmKK6z5pnVG3NtV2NvcFfiokbw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/dFGvBB6VWpK-mEJTuT61I7Djq2LyhJL1GlUBZkphCbI9nItOX74XGLfvPem6Sr5nqbuu8H3D4Xth57SBrOJzyQ=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/SS7u4SnIBtLBlMZcES1LWRb8UoFnJ1SPH-VvfEq9lSJGg73MWMlaVOz0hRLCPDwmFGKZMbAWUo0kEiIc_B15aSU=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/NJ0fqlDV6KELT13oI-NY8ww8c5lY1RejsyJDP59jgv1chdBkeW3Fxiysj282Ynv69HB9_knzEsHyPvh3zqSh=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "ttt_battles",
+            "title": "TTT Battles",
+            "description": "TTT Battles revitalizes the beloved game of Tic Tac Toe into an immersive, one-on-one competitive platform. Strategic maneuvers meet diverse personalization features, theme customizations, and built-in cognitive logic challenges under a secure, offline privacy-first environment.",
+            "icon_url": "https://play-lh.googleusercontent.com/EedjnPdljyNuM6EJng3qMkx_ZKB4nBxm84aJHGbt3ZuD9wNhCkAN073q97RQBsRJ9r5YyEldyivCkgpL08nE7Q=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.DevDuos.tictaktoegame",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Games",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/6fyDV2rIs7Wcw4GCDtsUu3RIOr1QIOY9bGXS_nN0-lpmupkM-pBZHv-4-elyKxDrTGy_QMCKfAYNPmlxb6iV=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/Ut9sPH8vWl2fIQ_JSJkHpG_EjlQnftFrk0q51r3A9jF55TM2n5-ZtA7--pM0P1cFc0vK5mfY3a0j0VOAgWuwlA=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/YMwPUEJtJrVn_UY0fGVfAGw8lQjJO2Qwn87kWZ8qMKqyBDvWRbaCMx3CjuXWtQmYJZVGBpg0cy1-bfnub0Dd=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/HGkXxGaY2lgR8yi6Q3k7OFgOICECZfhMFGP1Z50DwKOugM3IkxB8K47pwVrPKA3z-0v4qZKq7tRM7GgNsoxrgQ=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "devduo_tymio",
+            "title": "Tymio: Aesthetic Clock & Timer",
+            "description": "Transform your desk into a cinematic workspace with Tymio—the ultimate aesthetic desk clock and productivity companion. Powered by Motion Engine 3.0, it features 20+ flip and flip-clock style text animations, live soundscape atmospheres, and an immersive customizable Pomodoro focus timer.",
+            "icon_url": "https://play-lh.googleusercontent.com/FIrBkwfgzyOz-0E1-ip0PM9Z8cxC9voXLVHRvY3faXkk9WTpr9m9_pyTy9wTN-QuA80OFJsKDhW5FlZ7DSgLKLs=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.DevDuos.animatedclock",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/qIVGmq0xYOJLKM2hbKqORShUm_DsctZzoy0RGKwgBu7YaK1yFN1Hg1YBbZfY5_goHyZSiM_0fi6Ich0HX5hc=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/MPTbpIPkLN9mgE0em7RFGR8mvq8gLVzThVyLFVgJF8MMDhEAOXdqk-11LkvKDvG1yEmztbqhX1er_DRL7uqEkRs=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/IXcaKnBDZWXhQtcsNv2zTR8FQWwbxgRxl2Exw6zB-i9E95PJpmwRz_fgzqiSZNFmIMeTfmLcRMOQkenVDUL0=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/J1UVyeIGFQ40HYWsyrelOTpNmiRnn7m15qin8VqOVth8EgX6bfgfrmLt1Ss-WGDP44YiE-9w2jeYGH8yu8sD=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/l-KcL1AK_PZhskwEaQhitptJRm85N4lTR01s-gLA_r-5lbsHuL_Hy9FfVjYnS011WZ-9hfjdJWQht58ccQTTdQ=w526-h296-rw"
+            ]
+          },
+        {
+            "id": "web_to_pdf",
+            "title": "Web to PDF: URL & HTML",
+            "description": "Transform any website or live webpage into a seamless PDF with no page breaks using Web to PDF. Features an offline URL to PDF converter, raw HTML/CSS developer mode processing, and a continuous layout generation engine.",
+            "icon_url": "https://play-lh.googleusercontent.com/-YSkETFKDcweeJ6ayK2UQxxgFsk_btZWSut3qu8PY17tkXKNT8O4-bYeUaWT04gNVIpm3tzXNx4V43Az_TmDaQ=w240-h480-rw",
+            "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.web_to_pdf",
+            "app_store_url": "",
+            "mac_store_url": "",
+            "windows_store_url": "",
+            "filter_category": "Apps",
+            "feature_images": [
+              "https://play-lh.googleusercontent.com/Y75Uv5r-k7_t4zwKLA08HhTPNMKimaLF2eVwOFkw00euVqXwFsTYh92P-wlULYwjIHrC_kCGSavUl0dGRRAyjcg=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/xOhxTV5zd2JWwSSWrV2fMdGxKAyh2OxxHy3-9sYBjTjuR90v4Qebt5kRuk22lQOy60YHQ4oXJQFIOoCsFF7f=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/Kqx-Ts5onV3y9oH1Us_HvZqyE0dZHi_CQp_hJRO635Xx6jGRUXLulsudH6FQ9ObBLZlCf7NqODkR-jzfWV6nS4I=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/iUnqWHdYVuoKeGG3izWVgLSCyoKDPuK7XQUvvF2g4e0ictQ8IG5V3kTinRiyTFN_THO0PoyNJVzZOXYYeTtgyw=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/-xCscbkGjRWROIh8IhSC0qZhEYLVOnt3iVk6WiXDj89zMhRVn5vB2CS_vNY_0aipEQejkn_FW65a6Y_Z0E_E=w526-h296-rw",
+              "https://play-lh.googleusercontent.com/xwhU79hz6DR9viOAZBIp48Vx8NYKxPQqmPDKhQU2G5vSmmtURWukjHCiRRPvdbGVjA9rfPR9X4ZnwFwLhqyz0g=w526-h296-rw"
+            ]
+        }
+    ]
+}
 
