@@ -422,6 +422,18 @@
               "windows_store_url": "https://play.google.com/store/apps/details?id=com.devduo.railjunction",
               "website_url":"https://play.google.com/store/apps/details?id=com.devduo.railjunction",
               "filter_category": "Games"
+          },
+      {
+              "id": "metro_manager",
+              "title": "Metro Manager",            
+              "description": "Coming soon!!",
+              "icon_url": "https://play-lh.googleusercontent.com/gtkcb1i-QzTExxcnNK50mvu-juroLxt60US5uH4WqxKxhPHUMx_ZxIEfaldDiWRRIqFOVYK1aKK7rlBKUZwz=w240-h480-rw",
+              "play_store_url": "",
+              "app_store_url": "",
+              "mac_store_url": "",
+              "windows_store_url": "",
+              "website_url":"",
+              "filter_category": "Games"
           }
     ]
 }
