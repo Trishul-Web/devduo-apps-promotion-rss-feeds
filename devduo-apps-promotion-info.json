@@ -1,6 +1,6 @@
 {
   "top_apps": [
-    "devduo_ide","discipline_forge","rail_junction","web_to_pdf","safekeep_vault","safekey_password_manager","resumate_ai","devduo_pdf_editor","devduo_pdf_scanner"
+    "devduo_ide","discipline_forge","web_to_pdf","safekeep_vault","safekey_password_manager","resumate_ai","rail_junction","devduo_pdf_editor","devduo_pdf_scanner"
   ],
   "all_apps": [
       {
@@ -411,30 +411,40 @@
               "https://play-lh.googleusercontent.com/xwhU79hz6DR9viOAZBIp48Vx8NYKxPQqmPDKhQU2G5vSmmtURWukjHCiRRPvdbGVjA9rfPR9X4ZnwFwLhqyz0g=w526-h296-rw"
             ]
         },
-       {
-              "id": "rail_manager",
-              "title": "Station Manager",            
-              "description": "Coming soon!!",
-              "icon_url": "https://play-lh.googleusercontent.com/gtkcb1i-QzTExxcnNK50mvu-juroLxt60US5uH4WqxKxhPHUMx_ZxIEfaldDiWRRIqFOVYK1aKK7rlBKUZwz=w240-h480-rw",
-              "play_store_url": "https://www.thetrishulgroup.com/devduos/apps/indianstationmaster/indianstationmaster_info.html",
-              "app_store_url": "https://www.thetrishulgroup.com/devduos/apps/indianstationmaster/indianstationmaster_info.html",
-              "mac_store_url": "https://www.thetrishulgroup.com/devduos/apps/indianstationmaster/indianstationmaster_info.html",
-              "windows_store_url": "https://www.thetrishulgroup.com/devduos/apps/indianstationmaster/indianstationmaster_info.html",
-              "website_url":"https://www.thetrishulgroup.com/devduos/apps/indianstationmaster/indianstationmaster_info.html",
-              "filter_category": "Games"
-          },
-      {
-              "id": "metro_manager",
-              "title": "Metro Manager",            
-              "description": "Coming soon!!",
-              "icon_url": "https://play-lh.googleusercontent.com/gtkcb1i-QzTExxcnNK50mvu-juroLxt60US5uH4WqxKxhPHUMx_ZxIEfaldDiWRRIqFOVYK1aKK7rlBKUZwz=w240-h480-rw",
-              "play_store_url": "",
-              "app_store_url": "",
-              "mac_store_url": "",
-              "windows_store_url": "",
-              "website_url":"",
-              "filter_category": "Games"
-          }
+        {
+          "id": "indian_station_master",
+          "title": "Indian Station Master",
+          "description": "Become the ultimate Indian Station Master and manage one of India's busiest railway stations. Assign platforms, dispatch passenger and freight trains, control station traffic, upgrade ticket booking counters, expand premium passenger facilities, and build a thriving railway empire in this realistic station management simulation.",
+          "icon_url": "https://play-lh.googleusercontent.com/2_MtlYME3-4RXq69N5sXRZXyKi5ksPWY2GqQwuzUwF91CX6zFWfVRO5jcNBEZrt9QaImbB7RFGyLa2TFPnEGgw=w240-h480-rw",
+          "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.train_traffic_manager",
+          "app_store_url": "",
+          "mac_store_url": "",
+          "windows_store_url": "",
+          "website_url": "https://play.google.com/store/apps/details?id=com.devduo.train_traffic_manager",
+          "filter_category": "Games",
+          "feature_images": [
+            "https://play-lh.googleusercontent.com/dcVdCm7ZRYfr6gSlFWdhZ9GLZ15JvA4TwkLoqvkN3BDirQ0uAtOWj3hQnpp_UnOz-3SwwbZb5pVfqeGn7NmnVAI=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/8Qf9UrgobngOdyKHSdy2L4MX3ke50W2LZ7lZmHmQHNeB6wjFiugKui_bjb_M7Jz52naAkOTQON5dgwS63w2hOQ=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/SgijIuuEZba6WBJJyxsJPWALKJBfwgGSgylVT2vdIgRObCPNzk2yYuC2mlmxWozEcHNvdFouRXMKKRFQLZOO=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/mptJTpJSUNN1XVJPVXa_pLWSgybbYKAuTagyvJaOvpSMLKqIGMqbUwiX-uYS-cvUlQLkGf7HWbJAr7SD3NY8RA=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/bEVT3oZtGSgng-mG-Rvg1UQxFKog4Z6_Ia0VnmqufbdIy29A_bIIPY1QpROBXcyiDVBcbHg7SYSf59PX9RZzDA=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/4pm1Lr8VKGL43eYpds2nln51ELZQH7WfkKjBthXrRHedTz73mA1EPb42L6cFr2m9kq5ZIAGKwGT_a1OxPYWa=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/GgBgfo-gdpMnh_waG39YbQ1C9GXigWu-X6sOgFgJiy9SJxQr9rptVg3nA8c_oirv3n3s9krvpUB5cF5050GS5Q=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/WOZ4nS4U8S5x6_BIRFBx2kNMDudv0vqHeUGn89dNYxFdTS5gjWxoQe8DoY6H99otwF_Ssgu2sbSBsbqNFewbxMY=w526-h296-rw"
+          ]
+        },
+        {
+                "id": "metro_manager",
+                "title": "Metro Manager",            
+                "description": "Coming soon!!",
+                "icon_url": "https://play-lh.googleusercontent.com/gtkcb1i-QzTExxcnNK50mvu-juroLxt60US5uH4WqxKxhPHUMx_ZxIEfaldDiWRRIqFOVYK1aKK7rlBKUZwz=w240-h480-rw",
+                "play_store_url": "",
+                "app_store_url": "",
+                "mac_store_url": "",
+                "windows_store_url": "",
+                "website_url":"",
+                "filter_category": "Games"
+        }
     ]
 }
 
