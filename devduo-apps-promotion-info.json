@@ -434,16 +434,26 @@
           ]
         },
         {
-                "id": "metro_manager",
-                "title": "Metro Manager",            
-                "description": "Coming soon!!",
-                "icon_url": "https://play-lh.googleusercontent.com/gtkcb1i-QzTExxcnNK50mvu-juroLxt60US5uH4WqxKxhPHUMx_ZxIEfaldDiWRRIqFOVYK1aKK7rlBKUZwz=w240-h480-rw",
-                "play_store_url": "",
-                "app_store_url": "",
-                "mac_store_url": "",
-                "windows_store_url": "",
-                "website_url":"",
-                "filter_category": "Games"
+          "id": "american_rail_empire",
+          "title": "American Rail Empire",
+          "description": "Build your railroad empire in American Rail Empire, a train management and railway strategy game where you collect locomotives, assemble custom trains, take passenger and freight contracts, expand your rail yard, and grow a busy American terminal.",
+          "icon_url": "https://play-lh.googleusercontent.com/XGvxinG9LvvPemw4cQTjVK3yImU9smdzmFGOD4_SHDEg1r3EAy-T-ZfpWlWXR3sHqYARWsktfgwKIpSENI5N6g=w240-h480-rw",
+          "play_store_url": "https://play.google.com/store/apps/details?id=com.devduo.american_rail_empire",
+          "app_store_url": "",
+          "mac_store_url": "",
+          "windows_store_url": "",
+          "website_url": "https://play.google.com/store/apps/details?id=com.devduo.american_rail_empire",
+          "filter_category": "Games",
+          "feature_images": [
+            "https://play-lh.googleusercontent.com/c0ZgxBrlR0VFknOGiQN0tWNS22qRR2ZqUw7S2n6j5S8Vd6VLOtdkHCWHvOVZp4k4nYvQYCbubjx7I_80adBlff8=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/lSj-nz1XyguaF_iy6kncoDlBwa1UoL9eqNaTGaCMulbnG12m0nRkHz1WqSU6oFOP4aSgYwsX--6wlAd8yw9a=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/zAh6qYKMPc0w3WEUNkm7MCw92Z5fM-pPke5FI-PJryZm2fbfDJcy8lZ596i1EHjJr-r5aXvVM_NgHkPpAg_P8L4=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/Vf76Rr1MHM_k49yIxaGHn29rrqd6cYasLiFyuRLOPEgBkWj5NgVS4_DdRPM7In7HNAX_HzatLIELskj8rnjk=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/Ppoopdoi0UbztSImw3ZH9O1jf-xoG4s95Q8RlbxE-D3u7g7vqZzZPBLkKbFfjV5VYkNoYcc75BmdU7ECzyCIyA=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/vpuusE2p-GfQzIbgvBv9Nb7sl4nYD85nySqQ4gdwzRz791W_kLPUxfThzxuB__RhGeZiJYk9EfGdwdvki_O6T9I=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/PxJ1ItyCUlANbftLbB1KIGK02pH0LpsjK5HvT_9y_44PZ0fcp1jEpN8-VRFziiWYmhefvBmJmJfZPuB7gqVrPw=w526-h296-rw",
+            "https://play-lh.googleusercontent.com/PiqHjHWifBw2ayUS3h0yXCV_0mRIGtr3LkumVWEunSD_-MZXg1SwqJCyIneofRVEvvsbjXR8ZEMZEGJjnwW99w=w526-h296-rw"
+          ]
         }
     ]
 }
